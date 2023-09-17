@@ -1,2 +1,2 @@
 # ETH-Grade-Statistics
-Itet and Mavt grade statistics from the year 2020 onwards. Source: https://blitz-archive.amiv.ethz.ch/
+Itet and Mavt grade statistics from the year 2000 onwards. Source: https://blitz-archive.amiv.ethz.ch/
